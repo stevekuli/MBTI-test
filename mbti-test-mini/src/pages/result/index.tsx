@@ -9,7 +9,7 @@ import questionResults from "../../data/question_results.json";
 import "./index.scss";
 
 /**
- * 测试结果页面1
+ * 测试结果页面
  * @author <a href="https://github.com/stevekuli">程序员柚子</a>
  * @from <a href="https://blog.csdn.net/weixin_46918091">程序员柚子的博客</a>
  */
