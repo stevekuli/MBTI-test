@@ -1,3 +1,3 @@
 # MBTi性格测试小程序
 
-基于react+TaroUI
+基于react+TaroUI的小程序
